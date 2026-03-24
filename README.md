@@ -17,3 +17,4 @@ const operator = {
     specialization: ["Pentesting", "SOC Management", "Hardening"],
     status: "Active_Threat_Hunting"
 };
+![github contribution grid snake animation](https://github.com/Sur360-Ops/Sur360-Ops/blob/output/github-contribution-grid-snake.svg)
