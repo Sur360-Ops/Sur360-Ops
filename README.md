@@ -18,3 +18,11 @@ const operator = {
     status: "Active_Threat_Hunting"
 };
 ![github contribution grid snake animation](https://github.com/Sur360-Ops/Sur360-Ops/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 📡 Connect with the Operator
+<p align="left">
+<a href="https://soportesur360.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="soportesur360" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s360-linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s360-insta" height="30" width="40" /></a>
+</p>
