@@ -1,7 +1,7 @@
 # 🛡️ SYSTEM_STATUS: ONLINE | SUR360-OPS
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sur360-Ops&color=red&style=flat-square&label=PROFILE_VIEWS" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Sur360-Ops&color=red&style=flat-square&label=VISITORS_👀&logo=eye&logoColor=white" alt="Visitas" />
 </p>
 
 <p align="left">
